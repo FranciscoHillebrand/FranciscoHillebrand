@@ -2,14 +2,14 @@
 
 ### 🎓 Estudiante de Ingeniería en Informática & Analista de Datos
 
-¡Bienvenido a mi perfil! [cite_start]Soy un apasionado por los datos y la tecnología con base en **Misiones, Argentina**[cite: 3]. [cite_start]Actualmente terminé de cursar la carrera de **Ingeniería en Informática** [cite: 7] [cite_start]y me he especializado como **Analista de Datos** a través de formaciones intensivas y proyectos prácticos en SoyHenry[cite: 50, 51].
+¡Bienvenido a mi perfil! Soy un apasionado por los datos y la tecnología con base en **Misiones, Argentina**. Actualmente terminé de cursar la carrera de **Ingeniería en Informática**y me he especializado como **Analista de Datos** a través de formaciones intensivas y proyectos prácticos en SoyHenry.
 
 ---
 
 ## 🚀 Sobre mí
 
 * 🔭 **Actualmente:** Estoy finalizando mi carrera de grado y perfeccionando mis habilidades en **Analytics**.
-* 💡 **Mi enfoque:** Me destaco en la transformación de datos crudos en insights estratégicos. [cite_start]Combino la lógica de la ingeniería con herramientas de visualización para contar historias que ayuden a la toma de decisiones[cite: 8, 9].
+* 💡 **Mi enfoque:** Me destaco en la transformación de datos crudos en insights estratégicos. Combino la lógica de la ingeniería con herramientas de visualización para contar historias que ayuden a la toma de decisiones.
 * [cite_start]💼 **Experiencia:** Cuento con experiencia práctica realizando análisis estadísticos con **R** en el sector público (IPEC) y gestión de datos en IPRODHA[cite: 34, 38].
 * [cite_start]🌱 **Objetivo:** Busco mi primera oportunidad profesional como **Data Analyst** donde pueda aplicar mi stack técnico para aportar valor desde el primer día[cite: 9].
 * [cite_start]🗣️ **Idiomas:** Español (Nativo), Inglés (B1), Alemán (B1)[cite: 53, 54].
