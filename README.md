@@ -10,20 +10,20 @@
 
 * 🔭 **Actualmente:** Estoy finalizando mi carrera de grado y perfeccionando mis habilidades en **Analytics**.
 * 💡 **Mi enfoque:** Me destaco en la transformación de datos crudos en insights estratégicos. Combino la lógica de la ingeniería con herramientas de visualización para contar historias que ayuden a la toma de decisiones.
-* [cite_start]💼 **Experiencia:** Cuento con experiencia práctica realizando análisis estadísticos con **R** en el sector público (IPEC) y gestión de datos en IPRODHA[cite: 34, 38].
-* [cite_start]🌱 **Objetivo:** Busco mi primera oportunidad profesional como **Data Analyst** donde pueda aplicar mi stack técnico para aportar valor desde el primer día[cite: 9].
-* [cite_start]🗣️ **Idiomas:** Español (Nativo), Inglés (B1), Alemán (B1)[cite: 53, 54].
+* 💼 **Experiencia:** Cuento con experiencia práctica realizando análisis estadísticos con **R** en el sector público (IPEC) y gestión de datos en IPRODHA.
+* 🌱 **Objetivo:** Busco mi primera oportunidad profesional como **Data Analyst** donde pueda aplicar mi stack técnico para aportar valor desde el primer día.
+* 🗣️ **Idiomas:** Español (Nativo), Inglés (B1), Alemán (B1).
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-[cite_start]Estas son las herramientas y tecnologías que utilizo en mi día a día para extraer, transformar y visualizar datos[cite: 42]:
+Estas son las herramientas y tecnologías que utilizo en mi día a día para extraer, transformar y visualizar datos:
 
 ### Lenguajes y Bases de Datos
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python:** Pandas, NumPy (Análisis exploratorio y limpieza).
-* [cite_start]![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **SQL Server:** Modelado de datos, consultas complejas y procedimientos almacenados[cite: 44].
-* [cite_start]![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) **R / RStudio:** Análisis estadístico[cite: 36].
+* [cite_start]![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **SQL Server:** Modelado de datos, consultas complejas y procedimientos almacenados.
+* [cite_start]![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) **R / RStudio:** Análisis estadístico.
 
 ### Visualización y BI
 * [cite_start]![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI:** Creación de dashboards interactivos y reportes[cite: 45].
