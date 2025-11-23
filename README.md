@@ -45,11 +45,11 @@ Aquí puedes ver algunos de los trabajos que definen mi perfil:
 * **Tech:** Python, Power BI, Google Sheets.
 * **Resultado:** Se identificó a Brasil como el mercado con mayor impacto y oportunidad de intervención.
 
-### 🍔 [Base de Datos - Fast Food]
-* **Rol:** Data Analyst / Database Designer.
-* **Objetivo:** Construir una base de datos escalable y analizar patrones de venta.
-* **Tech:** SQL Server.
-* **Insight:** Se detectó que la franja horaria matutina generaba la mayor rentabilidad y volumen de ventas.
+### 🏀 [TrueShot - Predicción NBA]
+* **Rol:** Team Leader & Data Analyst.
+* **Objetivo:** Desarrollar un modelo de Machine Learning (Regresión Logística) para predecir victorias en la NBA y reducir la incertidumbre en apuestas.
+* **Tech:** Python, BigQuery, Looker Studio.
+* **Insight:** Se crearon features propietarias (como el impacto del arbitraje y lesiones) para alimentar un dashboard con KPIs avanzados como el Net Rating.
 
 ---
 
