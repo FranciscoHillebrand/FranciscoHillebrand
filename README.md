@@ -49,7 +49,7 @@ Aquí puedes ver algunos de los trabajos que definen mi perfil:
 * **Rol:** Team Leader & Data Analyst.
 * **Objetivo:** Desarrollar un modelo de Machine Learning (Regresión Logística) para predecir victorias en la NBA y reducir la incertidumbre en apuestas.
 * **Tech:** Python, BigQuery, Looker Studio.
-* **Insight:** Se crearon features propietarias (como el impacto del arbitraje y lesiones) para alimentar un dashboard con KPIs avanzados como el Net Rating.
+* **Resultado:** Se crearon features propietarias (como el impacto del arbitraje y lesiones) para alimentar un dashboard con KPIs avanzados como el Net Rating.
 
 ---
 
