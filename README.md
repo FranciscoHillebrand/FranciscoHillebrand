@@ -31,6 +31,7 @@ Estas son las herramientas y tecnologías que utilizo en mi día a día para ext
 * ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **Excel / Google Sheets:** Tablas dinámicas y análisis rápido.
 
 ### Metodologías y Herramientas
+* ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white) **n8n:** Automatización de flujos de trabajo, integración de APIs y orquestación de IA.
 * ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue) **Gestión Ágil**.
 
 ---
